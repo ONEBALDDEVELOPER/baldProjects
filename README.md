@@ -1,2 +1,2 @@
 # baldProjects
-This repo is a compilation of projects for my personal development
+This is a study repo for my personal studies
